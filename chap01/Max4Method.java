@@ -2,7 +2,7 @@ package chap01;
 
 /* 네 값의 최댓값을 구하여 출력 - 메서드 사용 */
 
-public class Max4Method 
+class Max4Method 
 {
     public static void main(String[] args)
     {

@@ -2,7 +2,7 @@ package chap01;
 
 /* 세 값의 최솟값을 구하여 출력 - 메서드 사용 */
 
-public class Min3Method 
+class Min3Method 
 {
     public static void main(String[] args)
     {
