@@ -10,7 +10,7 @@ class BubbleSort3
     {
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("버블 정렬 ver.1");
+        System.out.println("버블 정렬 ver.3");
         System.out.print("요솟수: ");
         int nx = scanner.nextInt();
         int[] x = new int[nx];
